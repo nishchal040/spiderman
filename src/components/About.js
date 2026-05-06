@@ -81,7 +81,7 @@ function About(){
                     </div>
                     </div>
                     <div className="stats-list">
-                        <motion.img src="./images/stats.png" alt="" id="stats"
+                        <motion.img src="/images/stats.png" alt="" id="stats"
                         initial={{opacity:0}}
                         whileInView={{opacity:1}}
                         transition={{duration: 2}}
