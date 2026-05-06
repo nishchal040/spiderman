@@ -4,7 +4,7 @@ function Nav(){
     return(
         <section>
              <nav>
-                <img src="./images/spider-logo.png"></img>
+                <img src="./images/spider-logo.png" alt="logo"></img>
                 <div class="nav-items">
                     <ul>
                         <li>Home</li>

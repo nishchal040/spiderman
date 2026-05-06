@@ -1,5 +1,5 @@
 import React from "react";
-import { delay, easeInOut, motion, scale} from "framer-motion";
+import { motion} from "framer-motion";
 
 
 const cardAnimation={
