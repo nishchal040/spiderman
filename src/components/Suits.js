@@ -13,7 +13,7 @@ const cardAnimation={
 const spidySwing={
     initial:{opacity:1},
     whileInView:{x:[-100,"70vw"],y:[-100,200,0], rotate: [-30, 20, -10],opacity:1},
-    transition:{duration:4,ease:"easeInOut"},
+    transition:{duration:4,ease:[0.25, 0.8, 0.25, 1]},
     viewport:{margin:"-100px",once:true}
 }
 function Suits(){
